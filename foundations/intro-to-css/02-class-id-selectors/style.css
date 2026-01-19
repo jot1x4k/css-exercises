@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#big-title {
+    font-size: 36px;
+    color: blue;
+}
+
+.cooler-title {
+    font-size: 24px;
+}
+
+#green-title {
+    background-color:springgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
